@@ -30,6 +30,6 @@ comparison
 - VADER, TextBlob
 - matplotlib, seaborn
 ## Contact
-- **Email:** [your.email@lmu.edu]
-- **GitHub:** [@your-username](https://github.com/your-username)
-- **LinkedIn:** [Your LinkedIn] (optional)
+- **Email:** [sather@lion.lmu.edu]
+- **GitHub:** [@your-username](https://github.com/shahzebather-ui)
+- **LinkedIn:** [www.linkedin.com/in/shahzebather]
