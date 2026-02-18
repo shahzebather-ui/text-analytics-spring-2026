@@ -15,6 +15,30 @@ Each assignment demonstrates different NLP techniques using Python.
 - **Key Skills:** Text preprocessing, sentiment analysis, model
 comparison
 - **[View Assignment →](assignment1/)**
+
+# Sentiment Labeling – Movie Reviews
+
+## Description
+This dataset contains 100 movie reviews that were manually annotated for sentiment.
+
+## Labeling Process
+Each review was manually labeled into one of three sentiment categories:
+- Positive
+- Neutral
+- Negative
+
+Labels were assigned based on the reviewer’s overall tone, evaluation, and final recommendation.
+
+## File Structure
+- movie_reviews_labeled.csv  
+  Contains the following columns:
+  - Review_ID
+  - Review_Text
+  - Sentiment
+
+## Notes
+Manual annotation was performed to ensure accurate sentiment interpretation, including handling mixed opinions and sarcasm based on overall judgment.
+
 ## Skills Demonstrated
 - Python programming
 - Natural Language Processing
